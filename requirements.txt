@@ -1,0 +1,3 @@
+python-telegram-bot==20.0  # Versión sugerida, puede ajustarse
+pyodbc
+python-dotenv  # Para .env (opcional, si no usan dotenv en el proyecto puede omitirse)
